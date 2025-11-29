@@ -29,6 +29,8 @@
 
 <img width="944" height="677" alt="image" src="https://github.com/user-attachments/assets/65d73604-6d7f-4047-a81f-6be351862c20" />
 
+'' Это для того, чтобы Ubuntu можно было вызывать через PowerShell''
+
 
 
 
