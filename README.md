@@ -19,6 +19,21 @@
 
 После перезагрузки нужно зайти в докер декстоп и пройти регистрацию
 
+
+<img width="1270" height="504" alt="image" src="https://github.com/user-attachments/assets/cd59a607-50ab-4dc9-b15e-6e8c0e50e5b1" />
+
+
+
+<img width="952" height="723" alt="image" src="https://github.com/user-attachments/assets/8681f0ee-4c01-4a66-9c0f-06f359bcfab1" />
+
+
+<img width="944" height="677" alt="image" src="https://github.com/user-attachments/assets/65d73604-6d7f-4047-a81f-6be351862c20" />
+
+
+
+
+
+
 ---
 
 ## Установка и настройка WSL
