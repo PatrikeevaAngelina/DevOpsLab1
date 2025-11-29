@@ -22,7 +22,7 @@
 <img width="952" height="723" alt="image" src="https://github.com/user-attachments/assets/8681f0ee-4c01-4a66-9c0f-06f359bcfab1" />
 
 
-<img width="944" height="677" alt="image" src="https://github.com/user-attachments/assets/65d73604-6d7f-4047-a81f-6be351862c20" />
+
 
 *Это для того, чтобы Ubuntu можно было вызывать через PowerShell*
 
